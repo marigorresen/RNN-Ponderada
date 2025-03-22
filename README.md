@@ -1,0 +1,2 @@
+# RNN-Ponderada
+Ponderada Hayashi
